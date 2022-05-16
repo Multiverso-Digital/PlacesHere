@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify\2.2.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-71b116bfa7cb15b9890d88edc8a3e0e618a53cee.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-ef3ab61c6c65e3735d596571ce71fc9c37bc9d8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-b5c1bd6cc7bdb641b889c832630c97f3e84aaa3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.3\fd32786786e2adb664d5ecc965da47629dca14ba\commons-codec-1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\commons-codec-1.3-2117cfbcbcf3dee53c2862975a7ef3dba904730f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.0.0\9506825ddc5a43b38a3d104db913ff0f4cb2e323\converter-jackson-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9506825ddc5a43b38a3d104db913ff0f4cb2e323">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\converter-jackson-2.0.0-44dae303ceca5981814126cbdb2b562891bbd296.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.2-4b413402c9dc9e85b952594f47f8916bba5fe61b.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\libs\httpclientandroidlib-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f99f6cea6f64a886121fdc67f5631bc323d50c20">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\httpclientandroidlib-1.1.2-d0004da2048dc0e9227ecc2b052dcdc63ff1e462.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify-fontawesome\2.2.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-e105f5e3f34658605b3a843284338340b748207c.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\gson-2.2.1-be3d218d57af84a4bd018b302c2266ad99b16e36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\jackson-databind-2.7.2-b8c5e8bebe2493c8c67246b102909bb9ee9b9508.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\libs\scribe-1.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\scribe-1.3.0-766ad314cf9ff78698c57f65a2ad82ab8b3639f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\oauth.signpost\signpost-core\1.2.1.2\bf95955dcf3d5a78c201e49b0c336787ea73f161\signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.2-e8132f2aa3f7403318f13c62c70ee9e4f03e45ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\okio-1.6.0-bf7bd25ece67ddc85e79fa7353a992f887ce3ea8.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-0e79c8af1dd200ddfe002ba07aa09e5c350405df.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.yelp.clientlib\yelp-android\3.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a8b4c4af428d00683ebc932f464912bd01307afa">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-875cfeb1a4b8c7b046e17b6282b9345ed7c855ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-cfda10e5d42bec1e43038edd0b17162bf5e52a1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\se.akerfeldt\okhttp-signpost\1.1.0\544600ae042f8fc113acb612ef30c69144b685d4\okhttp-signpost-1.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="544600ae042f8fc113acb612ef30c69144b685d4">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\okhttp-signpost-1.1.0-5358921edae2e7df1d21e49109327a0c13565620.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\libs\android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\android-smart-image-view-1.0.0-c2f658f56be9f04fcadc365a74202fa6462e548a.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-0dc6848bfb84f4c0a72f2d59705e7e7baaebaefd.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.foursquare\foursquare-android-oauth\1.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9dc88a23aaaa0d6b246af1435df4199dbd13ac28">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-ee2d1daf0a8eb6d2a9784f511d86e07c665c578e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.google.auto.value\auto-value\1.2\6873fed014fe1de1051aae2af68ba266d2934471\auto-value-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6873fed014fe1de1051aae2af68ba266d2934471">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\auto-value-1.2-2309dd4602aa9961aafb41aa8314ab20576b62ed.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\libs\foursquare-api-1.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f8b2bf3004096b8bedbc1d417830a6c828627ea">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\foursquare-api-1.0.2-185e3407b122597c92b9a1689d2add0976e1067c.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\classes-1fead0b00436b64ef3c58b7985e8abcf00c41516.jar" />
+    </item>
+    <item
+        jar="D:\Android_SDK_1.4\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-55fe3d63075ded98c5ac2d06d84fe7a2e75d5951.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abreu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="D:\Android_Studio_Projetos\PlacesHere\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0-c936230380c4292c941b69aabff687528bf07c7c.jar" />
+    </item>
+
+</items>

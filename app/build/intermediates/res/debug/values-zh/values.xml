@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Android_Studio_Projetos/PlacesHere/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string-array name="categorias">
+        <item>00 旅游景点</item>
+        <item>01 银行和ATM</item>
+        <item>02 酒吧</item>
+        <item>03 美容</item>
+        <item>04 电影院，电影</item>
+        <item>05 燃油，燃气站</item>
+        <item>06 紧急</item>
+        <item>07 体育</item>
+        <item>08 停车场</item>
+        <item>09 药店</item>
+        <item>10 Hotel</item>
+        <item>11 教会</item>
+        <item>12 租车服务</item>
+        <item>13 清真寺</item>
+        <item>14 博物馆</item>
+        <item>15 Pets</item>
+        <item>16 Pizza</item>
+        <item>17 餐厅</item>
+        <item>18 鞋</item>
+        <item>19 购物</item>
+        <item>20 犹太教堂</item>
+        <item>21 剧院</item>
+        <item>22 交通运输</item>
+    </string-array>
+    <string name="action_about">关于</string>
+    <string name="action_cat">分类</string>
+    <string name="action_dialogo">设置</string>
+    <string name="action_dist">距离</string>
+    <string name="action_idioma">Set English</string>
+    <string name="action_map">地图</string>
+    <string name="action_name">产品名称</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_tips">技巧</string>
+    <string name="app_name">Places Here</string>
+    <string name="carregando">让你的位置</string>
+    <string name="carregandofotos">loading 照片</string>
+    <string name="carregandooutro">获得其他位置</string>
+    <string name="carregandoplaces">加载的地方 Yelp, Foursquare</string>
+    <string name="carregandoplacesfs">加载推荐名额 Foursquare and Yelp</string>
+    <string name="carregandoreviews">loading 评论</string>
+    <string name="carregandoselecionado">装载选定的地方</string>
+    <string name="cidadigita">你没有输入城市名称来找到</string>
+    <string name="fototab">照片</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="google">data from Google</string>
+    <string name="interneterror">互联网连接错误</string>
+    <string name="interneterrorpede">请连接到互联网连接工作</string>
+    <string name="localdigita">您没有输入找到一个位置</string>
+    <string name="locationfind">位置找到（点击按钮）</string>
+    <string name="mapatab">地图</string>
+    <string name="nokia">data from Nokia</string>
+    <string name="politica">隐私政策</string>
+    <string name="searchanother">搜索另一个位置</string>
+    <string name="semfoto">从这个地方没有照片</string>
+    <string name="semfotocab">照片</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+    <string name="semtips">从这个地方没有评论</string>
+    <string name="semtipscab">评论</string>
+    <string name="sugetab">提示</string>
+    <string name="tipstab">评论</string>
+    <string name="title_activity_detalhe_fs">选定的地方</string>
+    <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_fs">Foursquare 照片</string>
+    <string name="title_activity_foto_go">Google 照片</string>
+    <string name="title_activity_foto_grande">照片 选</string>
+    <string name="title_activity_foto_nk">Nokia 照片</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+    <string name="title_activity_mapa_geral">地图</string>
+    <string name="title_activity_mostra_web">Places</string>
+    <string name="title_activity_pega_cida">Places</string>
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp 附近推荐名额</string>
+    <string name="title_activity_pega_tipo">请选择类别</string>
+    <string name="title_activity_sobre">关于</string>
+    <string name="title_activity_tab_det">将选择</string>
+    <string name="title_activity_tips_fs">Foursquare 评论</string>
+    <string name="title_activity_web_tips">Web Tips</string>
+    <string name="titulo_dialogo">米半径</string>
+    <string name="titulo_mens">请把新的半径从1.000到50.000米</string>
+    <string name="yelp">data from Yelp</string>
+</resources>

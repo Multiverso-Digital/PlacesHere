@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Places Here</string>
+    <string name="title_activity_pega_cida">Places</string>
+    <string name="title_activity_mostra_web">Places</string>
+    
+    <string name="action_tips">чаевые</string>
+    <string name="action_map">карта</string>
+    <string name="action_refresh">обновление</string>
+    <string name="action_about">относительно</string>
+    <string name="action_idioma">Set English</string>
+
+    <string name="locationfind">место, чтобы найти (нажмите кнопку)</string>
+    <string name="searchanother">искать другое место</string>
+    <string name="carregando">получение вашего местоположения</string>
+    <string name="carregandooutro">получение другом месте</string>    
+    <string name="carregandoplaces">загрузкой места из Yelp, Foursquare</string>
+    <string name="carregandoselecionado">загрузкой выбранном месте</string>
+    <string name="carregandoplacesfs">загрузкой рекомендуется места из Foursquare and Yelp</string>
+    <string name="interneterror">Ошибка подключения к Интернету</string>
+    <string name="interneterrorpede">Пожалуйста, подключитесь к работающее подключение к Интернет</string>
+    <string name="localdigita">Вы не ввели место, чтобы найти</string>
+    <string name="cidadigita">Вы не ввели название города, чтобы найти</string>
+    <string name="title_activity_sobre">относительно</string>
+   
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp pекомендуется мест поблизости</string>
+    <string name="title_activity_mapa_geral">карта</string>
+    <string name="title_activity_detalhe_fs">выбранном месте</string>
+    <string name="title_activity_foto_fs">Foursquare Фото</string>
+    <string name="title_activity_foto_go">Google Фото</string>
+    <string name="title_activity_tips_fs">Foursquare отзывы</string>
+    <string name="carregandofotos">loading Фото</string>
+    <string name="carregandoreviews">Reviews Загрузка</string>
+    <string name="title_activity_foto_nk">Nokia Фото</string>
+    <string name="title_activity_foto_grande">Фото selected</string>
+  
+    <string name="title_activity_tab_det">Местом</string>
+    <string name="semfoto">Нет фото с этого места</string>
+    <string name="semtips">Нет отзывов от этого места</string>
+    <string name="semfotocab">Фото</string>
+    <string name="semtipscab">отзывы</string>
+    <string name="mapatab">карта</string>
+    <string name="fototab">Фото</string>
+    <string name="tipstab">отзывы</string>
+    <string name="sugetab">чаевые</string>
+    <string name="politica">Политика конфиденциальности</string>
+        <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+      <string name="yelp">data from Yelp</string>
+      
+          <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+      <string name="title_activity_web_tips">Web Tips</string>
+
+    <string-array name="categorias">
+        <item>00 Туристические достопримечательности</item>
+        <item>01 Банки и банкоматы</item>
+        <item>02 Бары</item>
+        <item>03 Красота</item>
+        <item>04 Кинотеатры, Кино</item>
+        <item>05 Топливо, Автозаправка</item>
+        <item>06 Аварийный</item>
+        <item>07 Спорт</item>
+        <item>08 парковка</item>
+        <item>09 Аптеки</item>
+        <item>10 Отель</item>
+        <item>11 Церковь</item>
+        <item>12 Автосервис</item>
+        <item>13 Мечеть</item>
+        <item>14 Музей</item>
+        <item>15 Pets</item>
+        <item>16 Pizza</item>
+        <item>17 Рестораны</item>
+        <item>18 обувь</item>
+        <item>19 покупка товаров</item>
+        <item>20 Синагоги</item>
+        <item>21 Театр</item>
+        <item>22 Транспорт</item>
+    </string-array>
+
+    <string name="title_activity_pega_tipo">Выберите категорию</string>
+    <string name="action_cat">Категории</string>
+    <string name="action_name">Имя</string>
+    <string name="action_dist">Расстояние</string>
+    <string name="action_dialogo">Настройка</string>
+    <string name="titulo_dialogo">радиус метров</string>
+    <string name="titulo_mens">Пожалуйста, поставьте новую радиус от 1.000 до 50.000 метров</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+
+
+</resources>

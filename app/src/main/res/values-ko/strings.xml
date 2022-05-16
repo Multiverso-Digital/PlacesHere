@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Places Here</string>
+    <string name="title_activity_pega_cida">Places</string>
+    <string name="title_activity_mostra_web">Places</string>
+     
+  
+    <string name="action_tips">팁</string>
+    <string name="action_map">지도</string>
+    <string name="action_refresh">새로 고침</string>
+    <string name="action_about">약</string>
+    <string name="action_idioma">Set English</string>
+
+    <string name="locationfind">찾는 위치 (버튼을 클릭)</string>
+    <string name="searchanother">검색 새 위치</string>
+    <string name="carregando">위치를 얻기</string>
+    <string name="carregandooutro">새 위치를 얻기</string>
+    <string name="carregandoplaces">옐프, 정사각형, 구글과 노키아로드 장소</string>  
+    <string name="carregandoselecionado">선택된 장소를로드</string> 
+    <string name="carregandoplacesfs">옐프와 정사각형의 추천 장소를로드</string>  
+    <string name="interneterror">인터넷 연결 오류</string>
+    <string name="interneterrorpede">인터넷에 연결을 연결하십시오</string>
+    <string name="localdigita">당신이 찾을 수있는 위치를 입력하지 않았습니다</string>
+    <string name="cidadigita">당신이 찾을 수있는 도시 이름을 입력하지 않았다</string>
+    <string name="title_activity_sobre">약</string>
+    <string name="title_activity_pega_sugestao">정사각형과 옐프 추천 장소 근처</string>
+    <string name="title_activity_mapa_geral">지도</string>
+    <string name="title_activity_detalhe_fs">선택한 장소</string>
+    <string name="title_activity_foto_fs">정사각형 사진</string>
+    <string name="title_activity_foto_go">구글 사진</string>
+    <string name="title_activity_tips_fs">정사각형 리뷰</string>
+    <string name="carregandofotos">로드 사진</string>
+    <string name="carregandoreviews">로딩 리뷰</string>
+    <string name="title_activity_foto_nk">노키아 사진</string>
+    <string name="title_activity_foto_grande">사진 선택</string>
+ 
+    <string name="title_activity_tab_det">선택한 배치</string>
+    <string name="semfoto">이쪽으로부터 제공된 사진이 없습니다</string>
+    <string name="semtips">여기에서 리뷰 없음</string>
+    <string name="semfotocab">사진</string>
+    <string name="semtipscab">리뷰</string>
+    <string name="mapatab">지도</string>
+    <string name="fototab">사진</string>
+    <string name="tipstab">리뷰</string>
+    <string name="sugetab">팁</string>
+    <string name="politica">개인 정보 보호 정책</string>
+   
+    <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+    <string name="yelp">data from Yelp</string> 
+    
+    
+    
+    
+    <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+      <string name="title_activity_web_tips">Web Tips</string>
+
+    <string-array name="categorias">
+        <item>00 관광 명소</item>
+        <item>01 은행과 ATM</item>
+        <item>02 바</item>
+        <item>03 미 (美)</item>
+        <item>04 영화관, 영화</item>
+        <item>05 연료, 가스 역</item>
+        <item>06 비상</item>
+        <item>07 스포츠</item>
+        <item>08 주차</item>
+        <item>09 약국</item>
+        <item>10 호텔</item>
+        <item>11 성당</item>
+        <item>12 자동차 서비스</item>
+        <item>13 모스크</item>
+        <item>14 박물관</item>
+        <item>15 Pets</item>
+        <item>16 Pizza</item>
+        <item>17 레스토랑</item>
+        <item>18 신발</item>
+        <item>19 쇼핑</item>
+        <item>20 회당</item>
+        <item>21 극장</item>
+        <item>22 교통</item>
+    </string-array>
+
+    <string name="title_activity_pega_tipo">카테고리 선택</string>
+    <string name="action_cat">카테고리</string>
+    <string name="action_name">이름</string>
+    <string name="action_dist">거리</string>
+    <string name="action_dialogo">설치</string>
+    <string name="titulo_dialogo">미터 반경</string>
+    <string name="titulo_mens">1.000 50.000 미터에서 새로운 반경을 넣어주세요</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+
+
+</resources>

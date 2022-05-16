@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Places Here and There</string>
+    <string name="title_activity_pega_cida">Places Here and There</string>
+    <string name="title_activity_mostra_web">Places Here and There</string>
+    <string name="action_tips">Tips</string>
+    <string name="action_map">Map</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_about">about</string>
+    <string name="action_idioma">Set English</string>
+    <string name="locationfind">location to find (click button)</string>
+    <string name="searchanother">search new location</string>
+    <string name="carregando">getting your location</string>
+    <string name="carregandooutro">getting new location</string>
+    <string name="carregandoplaces">loading places from Yelp, Foursquare and Google</string>
+    <string name="carregandoselecionado">loading selected place</string>
+    <string name="carregandoplacesfs">loading recommended places from Yelp and Foursquare</string>
+    <string name="interneterror">Internet Connection Error</string>
+    <string name="interneterrorpede">Please connect to working Internet connection</string>
+    <string name="localdigita">You did not enter a location to find</string>
+    <string name="cidadigita">You did not enter a city name to find</string>
+    <string name="title_activity_sobre">About</string>
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp recommended places</string>
+    <string name="title_activity_mapa_geral">Map</string>
+    <string name="title_activity_detalhe_fs">Selected place</string>
+    <string name="title_activity_foto_fs">Foursquare Photos</string>
+    <string name="title_activity_foto_go">Google photos</string>
+    <string name="title_activity_tips_fs">Foursquare reviews</string>
+    <string name="carregandofotos">loading photos</string>
+    <string name="carregandoreviews">loading reviews</string>
+    <string name="title_activity_foto_nk">Nokia photos</string>
+    <string name="title_activity_foto_grande">Photo selected</string>
+    <string name="title_activity_tab_det">Place selected</string>
+    <string name="semfoto">no photo from this place</string>
+    <string name="semtips">no reviews from this place</string>
+    <string name="semfotocab">Photos</string>
+    <string name="semtipscab">Reviews</string>
+    <string name="mapatab">Map</string>
+    <string name="fototab">Photos</string>
+    <string name="tipstab">Reviews</string>
+    <string name="sugetab">Tips</string>
+    <string name="politica">privacy policy</string>
+    <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+    <string name="yelp">data from Yelp</string>
+    <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+    <string name="title_activity_web_tips">Web Tips</string>
+
+    <string-array name="categorias">
+        <item>00 Tourist Attractions</item>
+        <item>01 Banks and ATM</item>
+        <item>02 Bars</item>
+        <item>03 Beauty</item>
+        <item>04 Cinemas, Movies</item>
+        <item>05 Fuel, Gas station</item>
+        <item>06 Emergency</item>
+        <item>07 Sports</item>
+        <item>08 Parking</item>
+        <item>09 Pharmacies</item>
+        <item>10 Hotel</item>
+        <item>11 Church</item>
+        <item>12 Car services</item>
+        <item>13 Mosque</item>
+        <item>14 Museum</item>
+        <item>15 Pets</item>
+        <item>16 Pizza</item>
+        <item>17 Restaurants</item>
+        <item>18 Shoes</item>
+        <item>19 Shopping</item>
+        <item>20 Synagogues</item>
+        <item>21 Theatre</item>
+        <item>22 Transportation</item>
+    </string-array>
+
+    <string name="title_activity_pega_tipo">Select category</string>
+    <string name="action_cat">Categories</string>
+    <string name="action_name">Name</string>
+    <string name="action_dist">Distance</string>
+    <string name="action_dialogo">Setup</string>
+    <string name="titulo_dialogo">Meters input</string>
+    <string name="titulo_mens">Please put new radius from 1.000 to 50.000 meters</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+
+
+</resources>

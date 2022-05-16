@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Places Here</string>
+    <string name="title_activity_pega_cida">Places Here</string>
+    <string name="title_activity_mostra_web">Places Here</string>
+    
+    <string name="action_tips">Recomendado</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_refresh">actualizar</string>
+    <string name="action_about">por</string>
+    <string name="action_idioma">Set English</string>
+
+    <string name="locationfind">buscar en este sitio (pulse el botón)</string>
+    <string name="searchanother">buscar otra ubicación</string>
+    <string name="carregando">buscar su ubicación</string>
+    <string name="carregandooutro">buscar outra ubicación</string>
+    <string name="carregandoplaces">cargando lugares de Yelp, Foursquare</string>
+    <string name="carregandoselecionado">cargando lugar seleccionado</string>
+    <string name="carregandoplacesfs">Foursquare and Yelp - cargando lugares recomendados</string>
+    <string name="interneterror">Error de conexión a Internet</string>
+    <string name="interneterrorpede">Conéctese a una conexión activa a Internet</string>
+    <string name="localdigita">Usted no ha ingresado un lugar para encontrar</string>
+    <string name="cidadigita">No has escrito el nombre de la ciudad para encontrar</string>
+    <string name="title_activity_sobre">Por</string>
+  
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp- lugares cercanos recomendados</string>
+    <string name="title_activity_mapa_geral">Mapa</string>
+    <string name="title_activity_detalhe_fs">lugar seleccionado</string>
+    <string name="title_activity_foto_fs">Foursquare fotos</string>
+    <string name="title_activity_foto_go">Google fotos</string>
+    <string name="title_activity_tips_fs">Comentarios</string>
+    <string name="carregandofotos">cargando fotos</string>
+    <string name="carregandoreviews">cargando cometarios</string>
+    <string name="title_activity_foto_nk">Nokia fotos</string>
+    <string name="title_activity_foto_grande">Foto selecionada</string>
+    <string name="title_activity_tab_det">Lugar selecionado</string>
+    <string name="semfoto">No hay fotos de este lugar</string>
+    <string name="semtips">no hay opiniones para este lugar</string>
+    <string name="semfotocab">Fotos</string>
+    <string name="semtipscab">Opiniones</string>
+    <string name="mapatab">Mapa</string>
+    <string name="fototab">Fotos</string>
+    <string name="tipstab">Opinión</string>
+    <string name="sugetab">consejos</string>
+    <string name="politica">política de privacidad</string>
+        <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+      <string name="yelp">data from Yelp</string>
+      
+          <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+      <string name="title_activity_web_tips">Web Tips</string>
+
+
+    <string-array name="categorias">
+        <item>00 Atracciones Turísticas</item>
+        <item>01 Bancos y ATM</item>
+        <item>02 Bares</item>
+        <item>03 Belleza</item>
+        <item>04 Cines, Películas</item>
+        <item>05 Combustible, Gasolinera</item>
+        <item>06 Emergencia</item>
+        <item>07 Deportes</item>
+        <item>08 Aparcamiento</item>
+        <item>09 Farmacias</item>
+        <item>10 Hotel</item>
+        <item>11 Iglesia</item>
+        <item>12 Mecánico</item>
+        <item>13 Mezquita</item>
+        <item>14 Museo</item>
+        <item>15 Mascotas</item>
+        <item>16 Pizza</item>
+        <item>17 Restaurants</item>
+        <item>18 Zapatos</item>
+        <item>19 Compras</item>
+        <item>20 Sinagogas</item>
+        <item>21 Teatro</item>
+        <item>22 Transporte</item>
+    </string-array>
+
+    <string name="title_activity_pega_tipo">Selecciona la categoría</string>
+    <string name="action_cat">Categorías</string>
+    <string name="action_name">Nombre</string>
+    <string name="action_dist">Distancia</string>
+    <string name="action_dialogo">Configuración</string>
+    <string name="titulo_dialogo">metros de radio</string>
+    <string name="titulo_mens">Por favor, ponga la nueva radio de 1,000 a 50,000 metros</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+
+
+</resources>

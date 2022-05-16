@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categorias>
+    <categoria>
+        <id>0</id>
+        <cat>Tourist Attractions</cat>
+        <google>amusement_park|aquarium|campground|park|zoo</google>
+        <foursquare>4d4b7105d754a06377d81259</foursquare>
+        <nokia>landmark-attraction,camping,leisure-outdoor,recreation,amusement-holiday-park,mountain-hill,undersea-feature,forest-heath-vegetation,body-of-water,natural-geographical</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>parks,landmarks,amusementparks,localflavor,zoos,aquariums,beaches,tours,lakes,leisure_centers,recreation,playgrounds,gardens,wineries</yelp>
+    </categoria>
+    <categoria>
+        <id>1</id>
+        <cat>Banks and ATM</cat>
+        <google>bank</google>
+        <foursquare>4bf58dd8d48988d10a951735</foursquare>
+        <nokia>atm-bank-exchange</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>bank</yelp>
+    </categoria>
+    <categoria>
+        <id>2</id>
+        <cat>Bars</cat>
+        <google>bar|casino|night_club</google>
+        <foursquare>4d4b7105d754a06376d81259,4bf58dd8d48988d17c941735</foursquare>
+        <nokia>bar-pub,dance-night-club,casino</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>Bars,Casinos</yelp>
+    </categoria>
+    <categoria>
+        <id>3</id>
+        <cat>Beauty</cat>
+        <google>beauty_salon|hair_care|gym</google>
+        <foursquare>4f04aa0c2fb6e1c99f3db0b8,4bf58dd8d48988d110951735,4bf58dd8d48988d10c951735,4bf58dd8d48988d1ed941735,4d1cf8421a97d635ce361c31</foursquare>
+        <nokia>hairdresser+pedicure</nokia>
+        <nokiatipo>q</nokiatipo>
+        <yelp>barbers,hairremoval,hair,othersalons,permanentmakeup</yelp>
+    </categoria>
+
+    <categoria>
+        <id>4</id>
+        <cat>Cinema, movies</cat>
+        <google>movie_theater</google>
+        <foursquare>4bf58dd8d48988d17f941735</foursquare>
+        <nokia>cinema</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>movietheaters</yelp>
+    </categoria>
+
+    <categoria>
+        <id>5</id>
+        <cat>Fuel, Gas station</cat>
+        <google>gas_station</google>
+        <foursquare>4bf58dd8d48988d113951735</foursquare>
+        <nokia>petrol-station</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>servicestations</yelp>
+    </categoria>
+
+    <categoria>
+        <id>6</id>
+        <cat>Emergency</cat>
+        <google>fire_station|health|hospital|police</google>
+        <foursquare>4bf58dd8d48988d196941735,4bf58dd8d48988d12c941735,4bf58dd8d48988d12e941735</foursquare>
+        <nokia>police-emergency,hospital-health-care-facility</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>firedepartments,policedepartments,dentists,hospitals,urgent_care</yelp>
+    </categoria>
+
+    <categoria>
+        <id>7</id>
+        <cat>Sports</cat>
+        <google>sport</google>
+        <foursquare>4bf58dd8d48988d11d941735,4f4528bc4b90abdf24c9de85,4bf58dd8d48988d1f2941735,4bf58dd8d48988d184941735</foursquare>
+        <nokia>sports-facility-venue,sport-outdoor-shop</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>amateursportsteams,sports_clubs,sportsteams,sportsmed,sportsbars,sportswear,sportgoods,stadiumsarenas,racetracks</yelp>
+    </categoria>
+
+    <categoria>
+        <id>8</id>
+        <cat>Parking</cat>
+        <google>parking</google>
+        <foursquare>4c38df4de52ce0d596b336e1</foursquare>
+        <nokia>parking-facility</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>parking</yelp>
+    </categoria>
+
+    <categoria>
+        <id>9</id>
+        <cat>Pharmacy</cat>
+        <google>pharmacy</google>
+        <foursquare>4bf58dd8d48988d10f951735</foursquare>
+        <nokia>pharmacy</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>drugstores</yelp>
+    </categoria>
+
+
+
+    <categoria>
+        <id>10</id>
+        <cat>Hotel</cat>
+        <google>lodging</google>
+        <foursquare>4bf58dd8d48988d1fa931735,4bf58dd8d48988d17c941735</foursquare>
+        <nokia>accommodation,hotel,motel,hostel,resort,casino</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>hostels,hostels,resorts,bedbreakfast,campgrounds,skiresorts</yelp>
+    </categoria>
+
+    <categoria>
+        <id>11</id>
+        <cat>Church</cat>
+        <google>church</google>
+        <foursquare>4bf58dd8d48988d132941735</foursquare>
+        <nokia>church</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>churches</yelp>
+    </categoria>
+
+
+    <categoria>
+        <id>12</id>
+        <cat>Car services</cat>
+        <google>car_repair|car_wash</google>
+        <foursquare>4f04ae1f2fb6e1c99f3db0ba,4eb1c1623b7b52c0e1adc2ec</foursquare>
+        <nokia>car-dealer-repair</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>autoglass,autopartssupplies,autorepair,bodyshops,carwash,tires,oilchange,servicestations</yelp>
+    </categoria>
+
+    <categoria>
+        <id>13</id>
+        <cat>Mosque</cat>
+        <google>mosque</google>
+        <foursquare>4bf58dd8d48988d138941735</foursquare>
+        <nokia>mosque</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>mosques</yelp>
+    </categoria>
+
+    <categoria>
+        <id>14</id>
+        <cat>Museum</cat>
+        <google>museum</google>
+        <foursquare>4bf58dd8d48988d181941735</foursquare>
+        <nokia>museum</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>museum</yelp>
+    </categoria>
+
+    <categoria>
+        <id>15</id>
+        <cat>Pets</cat>
+        <google>pet|veterinary_care|pet_store</google>
+        <foursquare>5032897c91d4c4b30a586d69,4bf58dd8d48988d100951735</foursquare>
+        <nokia>pet</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>pets</yelp>
+    </categoria>
+
+
+
+    <categoria>
+        <id>16</id>
+        <cat>Pizza</cat>
+        <google>pizza</google>
+        <foursquare>4bf58dd8d48988d1ca941735</foursquare>
+        <nokia>pizza</nokia>
+        <nokiatipo>q</nokiatipo>
+        <yelp>pizza</yelp>
+    </categoria>
+
+    <categoria>
+        <id>17</id>
+        <cat>Restaurants</cat>
+        <google>restaurant</google>
+        <foursquare>4d4b7105d754a06374d81259</foursquare>
+        <nokia>restaurant</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>restaurants</yelp>
+    </categoria>
+
+    <categoria>
+    <id>18</id>
+    <cat>Shoes</cat>
+    <google>shoe_store</google>
+    <foursquare>4bf58dd8d48988d107951735</foursquare>
+    <nokia>shoes</nokia>
+    <nokiatipo>q</nokiatipo>
+    <yelp>shoes</yelp>
+    </categoria>
+
+    <categoria>
+        <id>19</id>
+        <cat>Shopping</cat>
+        <google>clothing_store|department_store|electronics_store|shopping_mall</google>
+        <foursquare>4bf58dd8d48988d103951735,4bf58dd8d48988d1f6941735,4bf58dd8d48988d122951735,4bf58dd8d48988d128951735,4bf58dd8d48988d1fd941735</foursquare>
+        <nokia>shopping,mall,department-store,electronics-shop,clothing-accessories-shop,shop</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>shoppingcenters,outlet_stores,deptstores,womenscloth,electronics,discountstore,computers</yelp>
+    </categoria>
+
+
+    <categoria>
+        <id>20</id>
+        <cat>Synagogue</cat>
+        <google>synagogue</google>
+        <foursquare>4bf58dd8d48988d139941735</foursquare>
+        <nokia>synagogue</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>synagogues</yelp>
+    </categoria>
+
+    <categoria>
+        <id>21</id>
+        <cat>Theatre</cat>
+        <google>movie_theater</google>
+        <foursquare>4bf58dd8d48988d137941735,4bf58dd8d48988d136941735,4bf58dd8d48988d135941735</foursquare>
+        <nokia>theatre-music-culture</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>theater,opera</yelp>
+    </categoria>
+
+
+    <categoria>
+        <id>22</id>
+        <cat>Transportation</cat>
+        <google>airport|bus_station|car_rental|subway_station|taxi_stand|train_station</google>
+        <foursquare>4d4b7105d754a06379d81259,4bf58dd8d48988d130951735,4e4c9077bd41f78e849722f9,4bf58dd8d48988d1fe931735,4bf58dd8d48988d1ed931735,4bf58dd8d48988d129951735,4bf58dd8d48988d130951735</foursquare>
+        <nokia>transport,airport,railway-station,public-transport,ferry-terminal,taxi-stand,car-rental</nokia>
+        <nokiatipo>c</nokiatipo>
+        <yelp>airports,carrental,motorcycle_rental,trainstations,transport,bikerentals</yelp>
+    </categoria>
+
+
+
+</categorias>

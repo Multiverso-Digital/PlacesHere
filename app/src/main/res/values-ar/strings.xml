@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">الأماكن هنا وهناك</string>
+    <string name="title_activity_pega_cida">الأماكن هنا وهناك</string>
+    <string name="title_activity_mostra_web">الأماكن هنا وهناك</string>
+    
+    <string name="action_tips">نصائح</string>
+    <string name="action_map">خريطة</string>
+    <string name="action_refresh">التحديث</string>
+    <string name="action_about">حول</string>
+    <string name="action_idioma">Set English</string>
+
+    <string name="locationfind">الموقع للعثور على (انقر زر)</string>
+    <string name="searchanother">بحث موقع آخر</string>
+    <string name="carregando">الحصول على الموقع الخاص بك</string>
+    <string name="carregandooutro">الحصول على موقع آخر</string>    
+    <string name="carregandoplaces">Yelp, Foursquare</string>
+    <string name="carregandoselecionado">التحميل المكان المحدد</string>
+    <string name="carregandoplacesfs">Foursquare and Yelp تحميل الأماكن الموصى بها من</string>
+    <string name="interneterror">خطأ اتصال إنترنت</string>
+    <string name="interneterrorpede">يرجى الاتصال الاتصال بالإنترنت العمل</string>
+    <string name="localdigita">لم تقم بإدخال موقع للعثور على</string>
+    <string name="cidadigita">لم تقم بإدخال اسم مدينة للعثور على</string>
+    <string name="title_activity_sobre">حول</string>
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp الأماكن القريبة الموصى بها</string>
+    <string name="title_activity_mapa_geral">خريطة</string>
+    <string name="title_activity_detalhe_fs">مكان اختيارها</string>
+    <string name="title_activity_foto_fs">Foursquare صور</string>
+    <string name="title_activity_foto_go">Google صور</string>
+    <string name="title_activity_tips_fs">Foursquare التعليقات</string>
+    <string name="carregandofotos">تحميل الصورر</string>
+    <string name="carregandoreviews">التعليقات التحميلتعليق</string>
+    <string name="title_activity_foto_nk">Nokia صور</string>
+    <string name="title_activity_foto_grande">اختيار الصورة</string>
+
+    <string name="title_activity_tab_det">ضع اختيارها</string>
+    <string name="semfoto">لا توجد صور من هذا المكان</string>
+    <string name="semtips">لم يتم تقديم تعليقات من هذا المكان</string>
+    <string name="semfotocab">صور</string>
+    <string name="semtipscab">التعليقات</string>
+    <string name="mapatab">خريطة</string>
+    <string name="fototab">صور</string>
+    <string name="tipstab">التعليقات</string>
+    <string name="sugetab">نصائح</string>
+    <string name="politica">سياسة الخصوصية</string>
+    <string name="google">البيانات من Google</string>
+    <string name="foursquare">لالبيانات من Foursquare</string>
+    <string name="nokia">لبيانات من Google</string>
+      <string name="yelp">لالبيانات من Yelp</string>
+      
+      
+          <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+      <string name="title_activity_web_tips">Web Tips</string>
+
+
+    <string-array name="categorias">
+        <item>00 Tourist Attractions</item>
+        <item>01 Banks and ATM</item>
+        <item>02 Bars</item>
+        <item>03 Beauty</item>
+        <item>04 Cinemas, Movies</item>
+        <item>05 Fuel, Gas station</item>
+        <item>06 Emergency</item>
+        <item>07 Sports</item>
+        <item>08 Parking</item>
+        <item>09 Pharmacies</item>
+        <item>10 Hotel</item>
+        <item>11 Church</item>
+        <item>12 Car services</item>
+        <item>13 Mosque</item>
+        <item>14 Museum</item>
+        <item>15 Pets</item>
+        <item>16 Pizza</item>
+        <item>17 Restaurants</item>
+        <item>18 Shoes</item>
+        <item>19 Shopping</item>
+        <item>20 Synagogues</item>
+        <item>21 Theatre</item>
+        <item>22 Transportation, Subway, Train, Bus, Airport, Taxi </item>
+    </string-array>
+
+
+
+    <string name="title_activity_pega_tipo">اختر فئة</string>
+    <string name="action_cat">فئات</string>
+    <string name="action_name">اسم</string>
+    <string name="action_dist">المسافة</string>
+    <string name="action_dialogo">الإعداد</string>
+    <string name="titulo_dialogo">متر مدخلات</string>
+    <string name="titulo_mens">يرجى وضع دائرة نصف قطرها الجديد 1،000-50،000 متر</string>
+    <string name="semgps">GPS NOT ACTIVE!</string>
+</resources>
